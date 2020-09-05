@@ -1,5 +1,7 @@
 public class MainRunner {
 
 
-    //testCode
+    public static void main(String[] args){
+        System.out.println("ぼくのなまえはぽるです");
+    }
 }
